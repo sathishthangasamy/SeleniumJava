@@ -22,7 +22,7 @@ public class NewTest {
 		@BeforeTest
 		public void beforeTest() {	
 			
-			 String exePath = "C:\\Users\\sthangasamy\\Desktop\\Padi\\ChromeDriver\\chromedriver.exe";
+			 String exePath = "SeleniumJava/Check/src/test/resources\\chromedriver.exe";
 			 System.setProperty("webdriver.chrome.driver", exePath);
 			 driver = new ChromeDriver();  
 		    
