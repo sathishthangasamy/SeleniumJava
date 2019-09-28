@@ -1,0 +1,8 @@
+[0923/123241.458:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\STHANG~1\AppData\Local\Temp\scoped_dir5768_424090911\Crashpad: The system cannot find the file specified. (0x2)
+[0923/123445.721:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\STHANG~1\AppData\Local\Temp\scoped_dir4452_1094873356\Crashpad: The system cannot find the file specified. (0x2)
+[0923/123705.542:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\STHANG~1\AppData\Local\Temp\scoped_dir16752_852000707\Crashpad: The system cannot find the file specified. (0x2)
+[0923/123742.634:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\STHANG~1\AppData\Local\Temp\scoped_dir16748_287895605\Crashpad: The system cannot find the file specified. (0x2)
+[0923/142740.166:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\STHANG~1\AppData\Local\Temp\scoped_dir17444_681758345\Crashpad: The system cannot find the file specified. (0x2)
+[0923/204807.601:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\STHANG~1\AppData\Local\Temp\scoped_dir12776_90913575\Crashpad: The system cannot find the file specified. (0x2)
+[0923/204932.012:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\STHANG~1\AppData\Local\Temp\scoped_dir11960_1465369407\Crashpad: The system cannot find the file specified. (0x2)
+[0923/211411.818:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\STHANG~1\AppData\Local\Temp\scoped_dir17072_67183636\Crashpad: The system cannot find the file specified. (0x2)
