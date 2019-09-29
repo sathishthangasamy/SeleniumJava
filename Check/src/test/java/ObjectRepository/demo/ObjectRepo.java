@@ -18,7 +18,7 @@ public static void main(String[] args) throws IOException {
 // Create WebDriver Instance		
     
 	WebDriver driver;			
-    String exePath = "C:\\Users\\sthangasamy\\Desktop\\Padi\\ChromeDriver\\chromedriver.exe";
+    String exePath = "C:\\Users\\sathi\\git\\SeleniumJava\\Check\\src\\test\\resources\\chromedriver.exe";
 	 System.setProperty("webdriver.chrome.driver", exePath);
 	 driver = new ChromeDriver(); 			
 	 
